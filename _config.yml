@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"    # 中文 “zh-CN” 英文 “en-US”
+locale                   : "en-US"    # 中文 “zh-CN” 英文 “en-US”
 site_theme               : "default"  # 主题 “default” “dark” “light”?
 title                    : "xiao's blog"
 title_separator          : "-"
